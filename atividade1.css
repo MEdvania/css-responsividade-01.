@@ -1,0 +1,29 @@
+
+*{
+    font-family: 'Nunito', sans-serif;
+}
+
+h1{
+    font-family: 'Varela Round', sans-serif;
+    font-size: 105px;
+}
+main{
+    text-align: center;
+}
+
+img{
+    width: 35%;
+    padding: 15px;
+}
+
+p{
+    width: 70%;
+    margin: 0 auto;
+    font-size: 14px;
+    color: #FFF;
+}
+
+body{
+    background: linear-gradient(45deg, rgb(109, 104, 104), rgb(0, 131, 0), rgb(158, 255, 79));
+}
+
